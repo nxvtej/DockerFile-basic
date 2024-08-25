@@ -16,3 +16,10 @@ add network to connect containers with another conatainers
 
 ![image](https://github.com/user-attachments/assets/7727752a-b187-4798-b3b8-60e72c653fa8)
 from week 15 live 2.2
+
+
+normally it worked when i tried node on machine instead of container
+![image](https://github.com/user-attachments/assets/1024a769-d4ca-4af7-921d-8980ae407e7a)
+
+but same wont work for container need to create network
+so need to add network
